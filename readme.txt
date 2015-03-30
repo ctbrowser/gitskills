@@ -1,1 +1,1 @@
-Creating a new branch is quick AND simple with no ff add.
+Creating a new branch is quick AND simple with no ff add issue-101.
